@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 ## Tech Stack
 
 Languages : javascript
+<br >
 Frameworks : React + Vite
 
 ## Additional Notes
