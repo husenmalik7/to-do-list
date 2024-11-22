@@ -8,6 +8,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+## Tech Stack
+
+Languages : javascript
+Frameworks : React + Vite
+
 ## Additional Notes
 
 Versi terbaru ada pada link/repository berikut : https://github.com/husenmalik7/to-do-list-2
