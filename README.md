@@ -16,6 +16,3 @@ versi repository ini hanya memuat codingan yang sampai pada pukul 17:00 WIB (ses
 <br >
 versi terbaru memuat codingan yang lebih dari pukul 17:00 WIB
 
-## Demo
-
-Untuk demo dapat dilihat pada about
